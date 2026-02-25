@@ -1,4 +1,4 @@
-#StudioGlibliNewFeatures🎬
+### StudioGlibliNewFeatures 🎬
 Um aplicativo iOS nativo desenvolvido para o Desafio Técnico, focado em exibir o catálogo de filmes do Studio Ghibli consumindo a Studio Ghibli API.
 
 ## 📱 Visual do Projeto
